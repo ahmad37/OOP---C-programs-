@@ -1,4 +1,4 @@
-/**
+/***
 *
 *  this code shows how is the inheritance useful to fix or enhance
 *   a previous class that had some issues.
